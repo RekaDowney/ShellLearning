@@ -1,0 +1,7 @@
+http://www.reka.ml/index.html
+http://blog.reka.ml/2017/08/18/_mongo.html
+http://blog.reka.ml/2017/09/22/_jdk9.html
+http://www.reka.ml/allin.html
+http://tech.reka.ml/jdk9_release.html
+http://tech.reka.ml/junit5_candidate.html
+http://tech.reka.ml/spring5_candidate.html

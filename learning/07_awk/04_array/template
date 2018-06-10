@@ -1,0 +1,15 @@
+BEGIN {
+    map[1]="Mon"
+    map[2]="Tue"
+    map["Reka"]=24
+    map["Rachel"]=23
+
+}
+
+{
+
+}
+
+END {
+
+}
